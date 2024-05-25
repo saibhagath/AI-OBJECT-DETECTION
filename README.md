@@ -15,3 +15,4 @@ Problem Solving:
 - Theft Prevention: Aids in theft prevention by alerting users to suspicious behavior or unauthorized access.
 - Safety: Ensures safety by identifying potential hazards or dangerous situations, such as fires or accidents.
 
+![Screenshot (1)](https://github.com/saibhagath/AI-OBJECT-DETECTION/assets/158176113/1e69223b-74ec-4a20-b1c0-0945d3750fd8)
