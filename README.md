@@ -14,3 +14,4 @@ Problem Solving:
 - Security: Enhances security systems by detecting unusual activities or intruders in real-time.
 - Theft Prevention: Aids in theft prevention by alerting users to suspicious behavior or unauthorized access.
 - Safety: Ensures safety by identifying potential hazards or dangerous situations, such as fires or accidents.
+
